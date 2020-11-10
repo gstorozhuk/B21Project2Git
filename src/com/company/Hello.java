@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("Hello 2");
 
         // line 1
+        // line 2
     }
 }
